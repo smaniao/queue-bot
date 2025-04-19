@@ -1,1 +1,2 @@
-# queue-bot
+# telegram-bot
+Для очереди водителей
